@@ -57,7 +57,7 @@ echo "************************************************************"
  #low dm
  ldm=0
  #high dm
- hdm=2000
+ hdm=1000
  #bandwidth
  bandw=`readfile $filename.sf | grep "Total Bandwidth" | awk '{print $5}'`
  #time resolution
