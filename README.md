@@ -1,6 +1,6 @@
 # fast_research
 
-*Descriptions of each of the main scripts we created during our FAST undergrad research project:*
+*Descriptions of each of the main scripts for processing raw pulsar data:*
 
 **pulsardatascript_orig.bash** = A simple script to perform a readfile on some important info of any data file.
 
