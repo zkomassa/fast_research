@@ -8,6 +8,6 @@
 
 **ddscript_13_sf.bash** = Final PRESTO script made to process Parkes Mulit-Beam files (**.sf** files).
 
-**process_all_arecibo_files.bash** = A script to process every ***.fits*** file with *ddscript_13_fits.bash* in blocks of 7 files at a time.
+**process_all_arecibo_files.bash** = A script to process every **.fits** file with *ddscript_13_fits.bash* in blocks of 7 files at a time.
 
 **ppp_1.py** = (Work in progress) Python PRESTO Pipeline: A remastered version of *ddscript_13_fits.bash* written in Python rather than Bash.
