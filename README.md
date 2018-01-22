@@ -10,4 +10,4 @@
 
 **process_all_arecibo_files.bash** = A script to process every **.fits** file with **ddscript_13_fits.bash** in blocks of 7 files at a time.
 
-**ppp_2.py** = (Work in progress) Python PRESTO Pipeline: A remastered version of **ddscript_13_fits.bash** written in Python rather than Bash.
+**ppp_2.py** = (Work in progress) Python PRESTO Pipeline: A remastered version of **ddscript_13_sf.bash** written in Python rather than Bash.
