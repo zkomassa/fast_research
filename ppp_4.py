@@ -197,16 +197,5 @@ for f in glob.glob("*.png"):
 	subprocess.call(['cp', f, './cand_plots'], stdout=FNULL, stderr=subprocess.STDOUT)
 
 
-
-
-''' Things to do:
-
-1)Run in an environment with a working version of ACCEL_sift.py 
-2)Run whole script and make sure prepfold output works
-3)Stop subprocess calls from doing output (to use fewer resources from CPU)
-4)Add an argument for different file types (e.g. .sf or .fits)
-'''
-
-
 elapsed_time = time.time() - start_time
 print (elapsed_time), "seconds" 
